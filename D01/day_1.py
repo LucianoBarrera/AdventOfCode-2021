@@ -1,5 +1,5 @@
     
-with open("input_day_1.txt") as f:
+with open("./D01/input_day_1.txt") as f:
     report = f.read().splitlines()
     report = [int(i) for i in report]
 
